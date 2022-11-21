@@ -1,4 +1,4 @@
----
+### "Before cloning the project, try to build it yourself by following these steps"
 #### Instructions
 1. Set document root to _YOUR_PROJECT/public_, that way the site is loaded from _public/index.php_
    * You should include/require all other files in _index.php_, that's your main file
